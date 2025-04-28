@@ -1,1 +1,1 @@
-# JavaCoreTheroy
+# Core Java Practice
